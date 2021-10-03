@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Mafuzur-Rahman100
+-Compleated my undergrade in computer science from Southeast University.
+- 👀 I’m interested in web development and software development
+- 🌱 I’m currently learning python and java script
+- 💞️ I’m looking to collaborate on developing side.
+- 📫 How to reach me ? contact through mahfuzurrahmanshan@gmail.com
+-Thank you
