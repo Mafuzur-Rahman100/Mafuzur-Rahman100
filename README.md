@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Mafuzur-Rahman100
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mafuzur-Rahman100/Mafuzur-Rahman100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Mafuzur-Rahman100.
+- I always feel comfortable to intriduce me as a travelers . I love code though.
+- for now web developing is my main concern. also love to work with cpp and python.
+- thank you, have a good day.
